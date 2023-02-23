@@ -1,0 +1,4 @@
+WIND inverter (Huawei)
+10.1.65.0
+502
+3000

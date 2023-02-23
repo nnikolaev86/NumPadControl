@@ -1,0 +1,4 @@
+PV inverter (Fronius)
+10.1.65.66
+502
+3000
